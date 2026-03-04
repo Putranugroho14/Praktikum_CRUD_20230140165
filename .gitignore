@@ -1,0 +1,8 @@
+.env
+target/
+*.class
+.mvn/
+mvnw*
+.idea/
+.vscode/
+*.iml
