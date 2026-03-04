@@ -104,5 +104,6 @@
   ```
 
   ### Tampilan 
-  <img width="1914" height="959" alt="image" src="https://github.com/user-attachments/assets/8f40358d-dd10-4d73-b2fb-c47784ce82b0" />
+  <img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/497c9d03-86e9-4974-88c0-6999f0a86ffd" />
+
 
