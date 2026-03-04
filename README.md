@@ -1,4 +1,4 @@
-# Dokumentasi API - Praktikum 1 User Management
+# Dokumentasi API - Praktikum 1 CRUD
 
 ## Dokumentasi API (Endpoints)
 
@@ -102,3 +102,7 @@
     "data": "success delete user with id 1eb214e2-962e-4528-a9de-28522df1a37e"
   }
   ```
+
+  ### Tampilan 
+  <img width="1914" height="959" alt="image" src="https://github.com/user-attachments/assets/8f40358d-dd10-4d73-b2fb-c47784ce82b0" />
+
