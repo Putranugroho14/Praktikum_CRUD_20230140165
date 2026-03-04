@@ -39,7 +39,7 @@
       {
         "id": "1eb214e2-962e-4528-a9de-28522df1a37e",
         "name": "Budi Santoso",
-        "age": 22
+        "age": 23
       }
     ]
   }
@@ -59,7 +59,7 @@
     "data": {
       "id": "1eb214e2-962e-4528-a9de-28522df1a37e",
       "name": "Budi Santoso",
-      "age": 22
+      "age": 23
     }
   }
   ```
